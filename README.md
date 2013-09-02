@@ -1,4 +1,4 @@
-awsGit_Aptatna
+awsGit_Aptana
 ==============
 
 from aptana
